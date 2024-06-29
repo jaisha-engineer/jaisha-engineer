@@ -1,5 +1,29 @@
-# 💫 About Me:
-I'm student of software engineering from LCWU.
+# Hi there, I'm Jaisha Chudhary! 👋
+
+Welcome to my GitHub profile! I'm currently a student of Software Engineering in my 7th semester at Lahore College for Women University (LCWU).
+
+## About Me
+
+- 🎓 **Student of Software Engineering**
+- 📚 **7th Semester at LCWU**
+- 🌐 **Area of Interest**: Web Development
+- 🚀 Aspiring to build a career in Web Development
+- 🌱 I’m currently learning and exploring various aspects of web development
+- 💻 Passionate about creating interactive and dynamic web applications
+- 🤝 Open to collaborating on interesting web development projects and learning opportunities
+
+## Skills and Technologies
+
+- **Programming Languages**: HTML, CSS, JavaScript, Python
+- **Web Development**: React.js, Node.js, Express.js
+- **Database Management**: MySQL, PostgreSQL
+- **Tools and Platforms**: Git, GitHub, VS Code
+- **Others**: Responsive Design, RESTful APIs, Object-Oriented Programming (OOP)
+
+
+## Quote
+
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 
 ## 🌐 Socials:
