@@ -21,9 +21,6 @@ Welcome to my GitHub profile! I'm currently a student of Software Engineering in
 - **Others**: Responsive Design, RESTful APIs, Object-Oriented Programming (OOP)
 
 
-## Quote
-
-> "The only way to do great work is to love what you do." - Steve Jobs
 
 
 ## 🌐 Socials:
@@ -41,5 +38,10 @@ Welcome to my GitHub profile! I'm currently a student of Software Engineering in
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaisha-engineer&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## Quote
+
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
